@@ -22,7 +22,7 @@ html, body{
 }
 
  #logo{
-      width: 280px;
+      max-width: 280px;
   }
 #World{
     animation: world 6s infinite linear;
