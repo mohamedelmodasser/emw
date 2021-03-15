@@ -20,8 +20,9 @@ html, body{
 .welcome{
     position: relative;
 }
- #logomob{
-      width: 200px;
+
+ #logo{
+      width: 280px;
   }
 #World{
     animation: world 6s infinite linear;
