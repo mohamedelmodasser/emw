@@ -20,6 +20,9 @@ html, body{
 .welcome{
     position: relative;
 }
+ #logomob{
+      width: 200px;
+  }
 #World{
     animation: world 6s infinite linear;
     transform-origin: center;
